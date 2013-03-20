@@ -1,0 +1,18 @@
+{
+  "name": "ViewWorld",
+  "description": "Mobile data collection",
+  "version": "1.2",
+  "app": {
+    "urls": [
+      "*://console.viewworld.net/"
+    ],
+    "launch": {
+      "web_url": "https://console.viewworld.net/"
+    }
+  },
+  "icons": {
+    "128": "icon_128.png"
+  },
+  "permissions": [],
+  "manifest_version": 2
+}
